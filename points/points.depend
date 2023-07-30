@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643533046 source:d:\pora lekha\semester 7\graphics\points\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+
